@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "night-fireworks-sparkler-Blizzard-Entertainment-Diablo-III-Diablo-3-Reaper-of-Souls-light-lighting-flame-darkness-computer-wallpaper-Diablo-2-616550.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
